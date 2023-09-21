@@ -18,5 +18,8 @@ public class Main {
         dll.display();
         dll.addFirst(20);
         dll.display();
+
+        dll.addLast(30);
+        dll.display();
     }
 }
